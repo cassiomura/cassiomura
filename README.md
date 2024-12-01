@@ -2,8 +2,8 @@
 
 - 🎒 **Bachelor’s in Mechanical Engineering** from the Polytechnic School of Universidade de São Paulo :brazil:.  
 - 🎓 **Master’s in Mathematical Engineering** from Politecnico di Milano 🇮🇹 .  
-- :mag_right: **Passionate about Numerical Methods** for solving complex engineering challenges.  
-- 📓 **Currently Developing Algorithms** using finite element principles to solve engineering problems, with a focus on structural analysis.  
+- :mag_right: Passionate about Numerical Methods for solving complex engineering challenges.  
+- 📓 Currently Developing Algorithms using finite element principles to solve engineering problems, with a focus on structural analysis.  
 
 <!--
 **cassiomura/cassiomura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
