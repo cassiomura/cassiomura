@@ -1,8 +1,8 @@
-# :wave: Hi, I'm Cássio 
+# :wave: Hi, I'm Cássio
 
-- 🎒 **Bachelor’s in Mechanical Engineering** from the Polytechnic School of Universidade de São Paulo :brazil:.  
-- 🎓 **Master’s in Mathematical Engineering** from Politecnico di Milano 🇮🇹.
-- 📓 I'm currently working on **Finite Element Method Algorithms** to solve engineering problems with a focus on structural analysis.
+- :scroll: **Bachelor’s in Mechanical Engineering** from the Polytechnic School of Universidade de São Paulo :brazil:.  
+- :mortar_board: **Master’s in Mathematical Engineering** from Politecnico di Milano 🇮🇹.
+- 🖥️ I'm currently working on **Finite Element Method Algorithms** to solve engineering problems with a focus on structural analysis.
 
 <!--
 **cassiomura/cassiomura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
