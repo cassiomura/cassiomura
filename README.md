@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Cássio
 
-- :scroll: **Bachelor’s in Mechanical Engineering** from the Polytechnic School of Universidade de São Paulo :brazil:.  
+- :scroll: **Bachelor’s in Mechanical Engineering** from the Escola Politécnica da Universidade de São Paulo :brazil:.  
 - :mortar_board: **Master’s in Mathematical Engineering** from Politecnico di Milano 🇮🇹.
 - 🖥️ I'm currently working on **Finite Element Method Algorithms** to solve engineering problems with a focus on structural analysis.
 
